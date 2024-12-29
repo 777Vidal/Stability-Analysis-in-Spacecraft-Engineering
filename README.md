@@ -11,7 +11,7 @@ Provide an educational tool for understanding spacecraft dynamics.
 Capabilities
 Simulate Earth and Moon landing scenarios.
 Dynamically calculate a stability score.
-Visualize and explain stability results in real time.
+visualise and explain stability results in real time.
 
 Run the notebook cells to initialize the simulation.
 
@@ -62,14 +62,14 @@ Programming Languages
 Python: For simulation and analysis.
 Libraries
 numpy: Numerical computations.
-matplotlib: Visualization.
+matplotlib: visualisation.
 ipywidgets: Interactive sliders.
 Development Environment
-Jupyter Notebook: Combines code, visualizations and explanations in one interface.
+Jupyter Notebook: Combines code, visualisations and explanations in one interface.
 
 🎯 Skills Demonstrated
 Mathematical modeling and simulation.
-Interactive data visualization.
+Interactive data visualisation.
 Problem-solving in aerospace contexts.
 Balancing theoretical optimization with real-world practicality.
 
